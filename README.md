@@ -1,2 +1,2 @@
-# 30-days-30-projects-js-
-daily building basic javascript projects
+# Day:1
+Calcualator using inline javascript
