@@ -12,3 +12,6 @@
 
 # Day:5
 **`To-Do-List`** This code implements a basic to-do list with features to add, edit, delete, and store tasks in the browser’s localStorage. The key functionality includes: Adding To-Dos,Editing To-Dos,Deleting To-Dos,Saving & Retrieving.
+
+# Day:6
+**`Dictionary App`**  a mini-dictionary app , Where the user enters a word and clicks search, the app fetches the word's definition, part of speech, phonetic spelling, and plays the word's pronunciation using data from the dictionary API.
